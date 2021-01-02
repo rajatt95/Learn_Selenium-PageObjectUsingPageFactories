@@ -1,0 +1,23 @@
+02/01/2021 18:14:40 devpinoyLogger Launching browser: chrome
+02/01/2021 18:14:52 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (6e290f44f46513089f318c73d77f8671)] -> xpath: //button//div[contains(text(),'Sign in')]]
+02/01/2021 18:15:13 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //a[contains(text(),'Sign in')]'
+02/01/2021 18:15:24 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (6e290f44f46513089f318c73d77f8671)] -> xpath: //input[contains(@id,'signin-loginid')]] entered value as : rajatvermaa80@gmail.com
+02/01/2021 18:15:25 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (6e290f44f46513089f318c73d77f8671)] -> xpath: (//input[contains(@id,'signin-password')])[2]] entered value as : HelloExpedia@123
+02/01/2021 18:15:25 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (6e290f44f46513089f318c73d77f8671)] -> xpath: //button[contains(@id,'submitButton')]]
+02/01/2021 18:15:39 devpinoyLogger Launching browser: chrome
+02/01/2021 18:15:56 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (77e6f9444bdf8a1385dc4f0b235a8b1c)] -> xpath: //button//div[contains(text(),'Sign in')]]
+02/01/2021 18:16:14 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //a[contains(text(),'Sign in')]'
+02/01/2021 18:16:24 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (77e6f9444bdf8a1385dc4f0b235a8b1c)] -> xpath: //input[contains(@id,'signin-loginid')]] entered value as : Rohit@gmail.com
+02/01/2021 18:16:25 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (77e6f9444bdf8a1385dc4f0b235a8b1c)] -> xpath: (//input[contains(@id,'signin-password')])[2]] entered value as : HelloExpedia@123
+02/01/2021 18:16:25 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (77e6f9444bdf8a1385dc4f0b235a8b1c)] -> xpath: //button[contains(@id,'submitButton')]]
+02/01/2021 18:16:32 devpinoyLogger Launching browser: chrome
+02/01/2021 18:16:44 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (6b05dbf188b922e767c3d1f9b29e6b13)] -> xpath: //button//div[contains(text(),'Sign in')]]
+02/01/2021 18:17:04 devpinoyLogger Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //a[contains(text(),'Sign in')]'
+02/01/2021 18:17:14 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (6b05dbf188b922e767c3d1f9b29e6b13)] -> xpath: //input[contains(@id,'signin-loginid')]] entered value as : 
+02/01/2021 18:17:15 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (6b05dbf188b922e767c3d1f9b29e6b13)] -> xpath: (//input[contains(@id,'signin-password')])[2]] entered value as : 
+02/01/2021 18:17:15 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (6b05dbf188b922e767c3d1f9b29e6b13)] -> xpath: //button[contains(@id,'submitButton')]]
+02/01/2021 18:17:23 devpinoyLogger Launching browser: chrome
+02/01/2021 18:17:41 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (79df056dc29742a6212a9d1b7c4ea806)] -> xpath: //span[contains(text(),'Flights')]]
+02/01/2021 18:17:42 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (79df056dc29742a6212a9d1b7c4ea806)] -> xpath: (//span[contains(@class,'uitk-tab-text')])[3]]
+02/01/2021 18:17:45 devpinoyLogger Clicking on an Element : [[[[ChromeDriver: chrome on XP (79df056dc29742a6212a9d1b7c4ea806)] -> xpath: //ul[contains(@id,'uitk-tabs-button-container')]]] -> xpath: //span[contains(text(),'Packages')]]
+02/01/2021 18:17:45 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (79df056dc29742a6212a9d1b7c4ea806)] -> xpath: //span[contains(text(),'Things to do')]]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Page Object Model with Page Factories">
+
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+		<listener
+			class-name="com.learning.errorcollectors.TestListenerAdapter"></listener>
+		<listener class-name="com.learning.listeners.CustomListeners"></listener>
+	</listeners>
+
+	<!-- thread-count="5" -->
+	<!-- FAiling due to Captcha -->
+	<!-- <test name="SignUp Test"> <classes> <class name="com.learning.testcases.SignUpTest" 
+		/> </classes> </test> -->
+
+
+
+	<test name="SignIn Test">
+		<classes>
+			<class name="com.learning.testcases.SignInTest" />
+		</classes>
+	</test>
+	<test name="HomePage Tabs Test">
+		<classes>
+			<class name="com.learning.testcases.HomePageTabsTest" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->
